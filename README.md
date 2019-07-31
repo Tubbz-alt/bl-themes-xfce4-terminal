@@ -10,4 +10,4 @@ Then in `xfce4-terminal`, click on the *Edit* menu and choose *Preferences*. Go 
 
 ### Notes
 
-I've only tested this on BunsenLabs, but I suspect that the themes should work everywhere you can install `xfce4-terminal`. It's worth noting that these are only color schemes, and not full themes.
+I've only tested this on BunsenLabs Helium and on Ubuntu 18.04 running on top of Windows 10 (with WSL 2 and VcXsrv), but I suspect that the color schemes should work everywhere you can install `xfce4-terminal`. It's worth noting that these are only color schemes, and not full themes.
