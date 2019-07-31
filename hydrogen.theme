@@ -1,0 +1,9 @@
+[Scheme]
+Name=Hydrogen
+ColorCursor=#D8D8D8
+ColorForeground=#D8D8D8
+ColorBackground=#2E3436
+TabActivityColor=#88C0D0
+ColorPalette=#000000;#CC0000;#4E9A06;#C4A000;#3465A4;#75507B;#06989A;#D3D7CF;#555753;#EF2929;#8AE234;#FCE94F;#729FCF;#AD7FA8;#34E2E2;#EEEEEC
+ColorBold=#D8D8D8
+ColorBoldUseDefault=FALSE
