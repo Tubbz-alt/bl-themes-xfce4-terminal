@@ -4,7 +4,7 @@ These are the color schemes from the [Hydrogen](https://github.com/BunsenLabs/bu
 
 ### Installation
 
-To install, copy [helium.theme](https://github.com/nflorin/bl-themes-xfce4-terminal/blob/master/helium.theme) and/or [hydrogen.theme](https://github.com/nflorin/bl-themes-xfce4-terminal/blob/master/helium.theme) to `~/.local/share/xfce4/terminal/colorschemes`.
+To install, copy [helium.theme](https://github.com/nflorin/bl-themes-xfce4-terminal/blob/master/helium.theme) and/or [hydrogen.theme](https://github.com/nflorin/bl-themes-xfce4-terminal/blob/master/helium.theme) to `~/.local/share/xfce4/terminal/colorschemes`. Create the folder if it doesn't already exist.
 
 Then in `xfce4-terminal`, click on the *Edit* menu and choose *Preferences*. Go to the *Colors* tab, and in the drop down menu under *Presets* select "Helium" or "Hydrogen".
 
